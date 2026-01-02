@@ -15,5 +15,7 @@ Juego de escritorio desarrollado en **Python** donde el jugador compite contra u
 
 ## 🚀 Ejecución
 Ejecuta el archivo `.exe` o corre el script con:
+https://github.com/deybi-code/repo-Piedra-Papel-Tijera---Juego-IA/raw/refs/heads/main/Juego.exe
 ```bash
+
 python juego.py
