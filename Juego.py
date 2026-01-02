@@ -1,3 +1,5 @@
+#AUTOR :deybi code##
+#Proyecto personal#
 import tkinter as tk
 import random
 
@@ -151,3 +153,4 @@ class GameApp(tk.Tk):
 
 if __name__ == "__main__":
     GameApp().mainloop()
+
